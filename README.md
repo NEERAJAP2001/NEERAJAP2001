@@ -4,7 +4,7 @@
 - 💻 I'm a Passionate developer 
 - 🔭 I’m currently working on Data science and AI realted projects
 - 🌱 I’m currently exploring Deep learning
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/neeraj-adityananth/" target="black"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siva jagadesh" height="30" width="30" /></a>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/neeraj-adityananth/)
 - ⚡ Fun fact: I'm a herbivore :)
 
 
