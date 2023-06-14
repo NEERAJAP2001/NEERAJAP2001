@@ -8,8 +8,3 @@
 - ⚡ Fun fact: I'm a herbivore :)
 
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NEERAJAP2001&show_icons=true&theme=tokyonight" alt="NEERAJAP2001" /></p>
-
-
